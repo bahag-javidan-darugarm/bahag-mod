@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mod-bahag
 - 👀 I’m interested in Machine Learning and Data Engineering.
-- 🌱 I’m the Tech Lead of OM.
+- 🌱 I’m the Tech Lead of Order Managment.
 - 💞️ I’m looking to collaborate on Data Science projects.
 
 <!---
